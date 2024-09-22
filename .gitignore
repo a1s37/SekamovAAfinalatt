@@ -1,0 +1,14 @@
+#Ignore binary files
+*.exe
+*.dll
+
+#Ignore IDE files
+*.log
+*.tmp
+.vscode/
+.idea/
+
+#Ignore some files from packet manager
+node_modules/
+vendor/
+   
